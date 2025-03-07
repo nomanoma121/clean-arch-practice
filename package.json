@@ -1,0 +1,28 @@
+{
+  "name": "clean-arch-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomanoma121/clean-arch-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nomanoma121/clean-arch-practice/issues"
+  },
+  "homepage": "https://github.com/nomanoma121/clean-arch-practice#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
